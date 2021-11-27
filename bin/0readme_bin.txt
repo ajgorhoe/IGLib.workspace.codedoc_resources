@@ -14,3 +14,11 @@ Sub-directories:
   bin/graphviz/ 
     - contains Graphviz binaries (portable distribution for Windows)
 
+
+You can find licenses and further information on the contained software by
+following links contained in download_links/ . Source code repositories are
+at the following addresses:
+  * https://github.com/doxygen/doxygen
+  * https://gitlab.com/graphviz/graphviz
+
+
