@@ -1,5 +1,16 @@
 
 Current versions of software contained in this directory:
-  Doxygen 1.8.17
+  Doxygen 1.9.3
   Graphviz 2.38
 
+File:   doxygen-1.9.3.windows.x64.bin.zip
+Length: 38174981
+Hash values: 
+  MD5:    
+35db2d56a78e9a6d15696ac65f0e2ee1
+  SHA1:    
+8d0149f4e97c3582b70bf439eb88ddaebecf0747
+  SHA256:    
+575b1a27cb907675d24f2c348a4d95d9cdd6a2000f6a8d8bfc4c3a20b2e120f5
+  SHA512:    
+73a2d426ee5caad6b5187893ef1c4226cf33d41d9a60110bc96b394782e514b8cc0cae05e1a39cd6cbd4e45542df33098497e6984fcb847dce4cfaabfde4d6c1
