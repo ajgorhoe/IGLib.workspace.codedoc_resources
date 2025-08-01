@@ -16,6 +16,24 @@ Source code corresponding to the included licenses can be clonet into the curren
 
 After running the script, source code cloned from the original repositories will appear in the `src/` directory.
 
+### Doxygen
+
+* Homepage: https://doxygen.nl/
+* [bin/doxygen](./bin/doxygen/)
+* Source repository:
+  * https://github.com/doxygen/doxygen
+* License:
+  * [bin/doxygen/LICENSE](./bin/doxygen/LICENSE)
+
+### Graphviz
+
+* Homepage: https://graphviz.org/
+* [bin/graphviz](./bin/graphviz/)
+* Source repository:
+  * https://gitlab.com/graphviz/graphviz/
+* License:
+  * [bin/graph](./bin/graphviz/LICENSE)
+
 ## Other information
 
 This repository is part of the Investigative Generic Library (IGLib).
