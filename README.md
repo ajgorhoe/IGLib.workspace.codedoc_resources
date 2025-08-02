@@ -34,11 +34,13 @@ After running the script, source code cloned from the original repositories will
 * License:
   * [bin/graph](./bin/graphviz/LICENSE)
 
-## Other information
+## Other Information
+
+
+
+See **LICENSE.md** for terms of use. Please note that license terms do not apply to third party software that is contained in this repository (mainly in binary form) - see above.
 
 This repository is part of the Investigative Generic Library (IGLib).
-
-See ***LICENSE.md*** for terms of use. Please note that license terms do not apply to third party software that is contained in this repository (mainly in binary form) - see above.
 
 In order to use this repository, clone it by using the IGLib container repository located at:
 
