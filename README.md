@@ -34,22 +34,25 @@ After running the script, source code cloned from the original repositories will
 * License:
   * [bin/graph](./bin/graphviz/LICENSE)
 
-## Other Information
+## License and Other Information
 
+Copyright (c) Igor Grešovnik
+See [LICENSE.md](./LICENSE.md) ([original is located here](https://github.com/ajgorhoe/IGLib.workspace.codedoc_resources/blob/master/LICENSE.md)) for terms of use.
 
+This repository is part of the *[Investigative Generic Library](https://github.com/ajgorhoe/IGLib.modules.IGLibCore/blob/main/README.md) (**IGLib**)*.
 
-See **LICENSE.md** for terms of use. Please note that license terms do not apply to third party software that is contained in this repository (mainly in binary form) - see above.
-
-This repository is part of the Investigative Generic Library (IGLib).
+Please note that license terms do not apply to third party software that is contained in this repository (mainly in binary form) - see above.
 
 In order to use this repository, clone it by using the IGLib container repository located at:
 
-> *https://github.com/ajgorhoe/iglibcontainer.git*
+> *<https://github.com/ajgorhoe/iglibcontainer.git>*
 
 See the readme file of the above container repository for information about how to properly clone and use IGLib repositories.
 
-For more information, see the documentation from IGLib base repository located at:
+See also the documentation from the legacy IGLib Framework's base repository located at:
 
-> *https://github.com/ajgorhoe/IGLib.workspace.base.iglib.git*
+> *<https://github.com/ajgorhoe/IGLib.workspace.base.iglib/blob/master/README.md>*
+
+## License and Terms of Use
 
 
