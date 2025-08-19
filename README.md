@@ -39,6 +39,9 @@ After running the script, source code cloned from the original repositories will
 Copyright (c) Igor Grešovnik
 See [LICENSE.md](./LICENSE.md) ([original is located here](https://github.com/ajgorhoe/IGLib.workspace.codedoc_resources/blob/master/LICENSE.md)) for terms of use.
 
+Disclaimer:  
+The repository owner reserves the right to change the license to one of the permissive open source licenses, such as the Apache-2 or MIT license.
+
 This repository is part of the *[Investigative Generic Library](https://github.com/ajgorhoe/IGLib.modules.IGLibCore/blob/main/README.md) (**IGLib**)*.
 
 Please note that license terms do not apply to third party software that is contained in this repository (mainly in binary form) - see above.
@@ -53,6 +56,5 @@ See also the documentation from the legacy IGLib Framework's base repository loc
 
 > *<https://github.com/ajgorhoe/IGLib.workspace.base.iglib/blob/master/README.md>*
 
-## License and Terms of Use
 
 
