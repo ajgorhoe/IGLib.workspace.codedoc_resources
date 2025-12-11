@@ -41,7 +41,7 @@ After running the script, source code cloned from the original repositories will
 ## License and Other Information
 
 Copyright (c) Igor Grešovnik
-See [LICENSE.md](./LICENSE.md) ([original is located here](https://github.com/ajgorhoe/codedoc_resources_25_12/blob/main/LICENSE.md)) for terms of use.
+See [LICENSE.md](./LICENSE.md) ([the original is located here](https://github.com/ajgorhoe/IGLib.workspace.codedoc_resources/blob/master/LICENSE.md)) for terms of use.
 
 Disclaimer:  
 The repository owner reserves the right to change the license to one of the permissive open source licenses, such as the Apache-2 or MIT license.
